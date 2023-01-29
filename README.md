@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Odal-Sigel/Odal-Sigel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi nick is **Odal-Sigel**, I'm a spanish DAW student 👨‍💻 (Desarrollo de Aplicaciones Web - Web Applications Development). This is my special place in www to upload all my personal projects and practices.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+    <div>
+
+![Odal-Sigel's Github Stats](https://github-readme-stats.vercel.app/api?username=Odal-Sigel&show_icons=truese&theme=onedark&hide_border=true&border_radius=25)
+    </div>
+    <div>
+![Odal-Sigel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odal-Sigel&show_icons=true&theme=onedark&hide_border=true&border_radius=25)
+    </div>
+</div>

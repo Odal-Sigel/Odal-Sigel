@@ -4,12 +4,4 @@ Mi nick is **Odal-Sigel**, I'm a spanish DAW student 👨‍💻 (Desarrollo de 
 
 <hr>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-    <div>
-
-![Odal-Sigel's Github Stats](https://github-readme-stats.vercel.app/api?username=Odal-Sigel&show_icons=truese&theme=onedark&hide_border=true&border_radius=25)
-    </div>
-    <div>
-![Odal-Sigel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odal-Sigel&show_icons=true&theme=onedark&hide_border=true&border_radius=25)
-    </div>
-</div>
+![Odal-Sigel's Github Stats](https://github-readme-stats.vercel.app/api?username=Odal-Sigel&show_icons=truese&theme=onedark&hide_border=true&border_radius=25) &emsp; ![Odal-Sigel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odal-Sigel&show_icons=true&theme=onedark&hide_border=true&border_radius=25)

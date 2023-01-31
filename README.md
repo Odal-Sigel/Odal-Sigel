@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mi nick is **Odal-Sigel**, I'm a spanish DAW student 👨‍💻 (Desarrollo de Aplicaciones Web - Web Applications Development). This is my special place in www to upload all my personal projects and practices.
+Mi nick is **Odal-Sigel** and I'm a spanish DAW student 👨‍💻 (Desarrollo de Aplicaciones Web - Web Applications Development). This is my special place in www to upload all my personal projects and practices.
 
 <hr>
 
